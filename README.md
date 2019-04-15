@@ -4,11 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a simple demonstration of basic React skills through an SPA that uses a backend API to show vehicles on a map.
 
 ## Installation and starting up
-You know the drill, just run:
+You know the drill ;)
 
-`npm install`
+```
+git clone https://github.com/kureci/react-map-demo.git
+cd react-map-demo
+npm install
+```
 
-followed by
+and then followed by
 
 `npm start`
 
