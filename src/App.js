@@ -9,7 +9,7 @@ export default class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      zoom: 16,
+      zoom: 14,
       markers: [],
       count: 10,
       center: props.mapCenter || { lat: 51.514388, lng: -0.093587 },
