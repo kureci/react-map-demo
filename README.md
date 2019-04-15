@@ -13,10 +13,14 @@ npm install
 ```
 
 and then followed by
-
-`npm start`
+```
+npm start
+```
 
 which runs the app in the development mode.<br>
 
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Note
+Didn't want to use Redux for this simple SPA as it would be an overhead, but in a real-life application that grows larger than 3-5 components using Redux goes hand-in-hand with React.
