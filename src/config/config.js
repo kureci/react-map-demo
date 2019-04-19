@@ -6,6 +6,6 @@ export default {
   },
   googleMapsApi: {
     version: '3.exp',
-    key: 'AIzaSyCyM4nogM3mCXvg-9gcKao_S9eeDwKYBDs',
+    key: '<google maps api key>',
   }
 }
